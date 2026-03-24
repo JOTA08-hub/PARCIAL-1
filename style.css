@@ -7,7 +7,7 @@ a:visited{
 }
 
 a:hover {
-    color:GREEN;
+    color:RED;
     cursor: pointer;
 }
 .letra-roja{
