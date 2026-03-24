@@ -1,0 +1,41 @@
+a{
+  COLOR:#f0f0f0;
+}
+a:visited{
+  color:#f0f0f0;
+     transition:color 0.3 eae;
+}
+
+a:hover {
+    color:red;
+    cursor: pointer;
+}
+.letra-roja{
+  color:cyan;
+  with:10px
+}
+body {
+    background-color: #6699CC;
+}
+
+H1{
+  color:#87edff;
+  color: white; 
+  -webkit-text-stroke: 1px black; 
+}
+img {
+  width: 200px; 
+}
+summary {
+  list-style: none;
+  outline: none;
+}
+
+
+ul {
+  background: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 10px;
+  width: 200px;
+}
